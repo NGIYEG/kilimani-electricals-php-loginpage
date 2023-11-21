@@ -1,0 +1,8 @@
+.navbar{
+    border: none;
+    background-image:linear-gradient(to right,#082239,#092039,#092038,#092036,#081f37,#091f37,#081e37,#081e34,#081e36,#081d36,#071a34,#061930,#061830,#05172f,#05162e,#04152f) ;
+ 
+}
+
+
+.navbar-toggler-icon{color: white;}
